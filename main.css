@@ -10,9 +10,8 @@ h4 {
   background-color: #00C6D8;
   color: white;
   margin-bottom: 0; }
-
-h4:hover {
-  background-color: #00DAEE; }
+  h4:hover {
+    background-color: #00DAEE; }
 
 p {
   padding-left: 15px;

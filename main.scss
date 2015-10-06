@@ -11,10 +11,9 @@ h4 {
   background-color: #00C6D8;
   color: white;
   margin-bottom: 0;
-}
-
-h4:hover{    
-  background-color:#00DAEE;
+  &:hover{
+    background-color: #00DAEE;
+  }
 }
 
 p {
